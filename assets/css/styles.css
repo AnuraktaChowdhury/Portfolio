@@ -575,12 +575,14 @@ img {
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   grid-gap: 40px;
   margin-top: 50px;
+  margin-left: 5px;
 }
 
-.work {
-  border: radius 10px;
+#work {
+   border: radius 10px;
   position: relative;
-  overflow: hidden;
+  overflow: hidden; 
+
 
 }
 
